@@ -1,0 +1,8 @@
+{
+  "environment": "test",
+  "browser": "CHROME",
+  "browser_options": {},
+  "remote_config": {"remote_browser":"CHROME", "remote_ip":"localhost","remote_port":"4444"},
+  "implicit_wait": 10,
+  "explicit_wait": 60
+}
